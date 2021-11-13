@@ -1,0 +1,13 @@
+BIP39 - seed = a50f720ae3ea4af048bbd2b5864cc3c9f295fbc3de394265ab979ceb9d7697167d47fb85f1b768caa135f33f66362c9438d4b9ace43eabcd38a7b78e73738aa0
+
+mnemonic = cactus exotic mango damage universe sniff history cheese image such surface hard
+
+address: mrXnF4L9fH9FFBdfv9ZTzvrZpqSjEXq8pC
+public key: 039f56656f0382287527137964ec76222f07906b0177873272b6d9db525ce5d478
+private key: cNfoZLt9w7GZvS6orCRAMeg9CBZHQnyWaVmj4gcbMnTfrEGHRQfg
+
+is_raining = True
+if is_raining:
+    print("Bring an umbrella!")
+else:
+    print("Leave the umbrella at home!")
